@@ -3,6 +3,16 @@
 # Shape Portfolio — A TakeShape Sample Project Build With Gatsby.js
 This is a sample project to get you started building a static website with [TakeShape](https://www.takeshape.io) (TS) and [Gatsby.js](https://gatsbyjs.org/). You can see the sample project in action here: [https://shape-portfolio.takeshapesampleproject.com/](https://shape-portfolio.takeshapesampleproject.com/)
 
+## Quickstart with Netlify
+1. Fork this repo.
+1. Visit https://app.netlify.com/start to create a new Netlify site from the forked repo.
+1. Clone the forked repo.
+1. Run `netlify link` to link the working directory to the netlify site.
+1. Run `netlify addons:create takeshape --template shape-portfolio`.
+1. Run `netlify addons:auth takeshape`.
+1. Follow the instructions to create a TakeShape account and claim the TakeShape project.
+1. Change some content in the TakeShape project.
+1. From Netlify, observe Gatsby build on Netlify and then visit the deployed site.
 
 ## Quickstart
 1. [Signup](https://app.takeshape.io/signup) or [login](https://app.takeshape.io/login) at TakeShape.
