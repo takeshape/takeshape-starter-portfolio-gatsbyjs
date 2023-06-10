@@ -7,7 +7,7 @@
     "email": "contact@takeshape.io"
   },
   "dependencies": {
-    "gatsby": "^2.24.2",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-manifest": "^2.3.3",
     "gatsby-plugin-offline": "^2.0.5",
     "gatsby-plugin-react-helmet": "^3.0.0",
